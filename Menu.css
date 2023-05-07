@@ -7,13 +7,13 @@
   box-shadow: 0px 0px 0px rgba(0,0,0,0);
   font-size: 1.125rem;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 18px 0 0;
+  margin: 30px 0 0;
 }
 
 .u-section-1 .u-image-1 {
   width: 533px;
   height: 400px;
-  margin: 52px auto 0;
+  margin: 40px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -29,7 +29,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: 60px auto;
+  margin: 57px auto 60px;
   padding: 6px 31px 6px 30px;
 }
 
@@ -99,7 +99,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 550px;
+    min-height: 434px;
   }
 
   .u-section-1 .u-text-1 {
@@ -134,6 +134,7 @@
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 0.3;
     margin-top: 24px;
+    margin-bottom: 40px;
   }
 }
 
